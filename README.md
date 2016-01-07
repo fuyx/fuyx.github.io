@@ -1,2 +1,2 @@
 #The Personal Website of Yixian Fu
-#####[clike here](fuyx.github.io)
+#####[clike here](http://fuyx.github.io)
