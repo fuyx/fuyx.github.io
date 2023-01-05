@@ -1,4 +1,4 @@
-The Personal Website of Yixian Fu
+The Personal Website of Xiao Sun
 =========
 
-[clike here](http://fuyx.github.io) to see the website.
+[clike here](http://rachelxsun.github.io) to see the website.
